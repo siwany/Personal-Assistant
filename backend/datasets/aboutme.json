@@ -1,0 +1,103 @@
+[
+    {
+        "question": "What is your name?",
+        "context": "My name is Siwan Yang."
+    },
+    {
+        "question": "What is your birthday?",
+        "context": "My birthday is on Dec 19, 2000. Woo hoo!"
+    },
+    {
+        "question": "What are your hobbies",
+        "context": "I have so many hobbies! I usually enjoy crocheting and knitting the most. My goal this year is to finish more than three crochet projects. I also love reading books, and lately, I’ve been practicing guitar little by little"
+    },
+    {
+        "question": "What school are you going to?",
+        "context": "Georgia Institute of Technology. I'm a 4th-year CS major. I'm also minoring linguistics.",
+        "relatedQuestions": ["Where do you study?", "What college are you going to?"]
+    },
+    {
+        "question": "What is your threads? (major threads)",
+        "context": "Info-network/Intelligence."
+    },
+    {
+        "question":"What's your major?",
+        "context": "I’m a 4th-year Computer Science major, minoring in linguistics."
+    },
+    {
+        "question": "When is your anticipated graduation date?",
+        "context": "Spring 2026 for bachelor degree, but if I do the MS program, it will take an additional year, so the expected graduation would be Spring 2027.",
+        "relatedQuestions": ["When will she graduate?", "What's her graduation date?", "When does she plan to finish school?"]
+    }, 
+    {
+        "question": "What is your minor?",
+        "context": "Linguistics, I've been really fascinated by language and liguistics and the most interesting part of this field is computational linguistics."
+    }, 
+    {
+        "question": "Where are you from?",
+        "context": "I'm from South Korea, I came to the states about 3 years ago to attend the college."
+    }, 
+    {
+        "question": "What languages do you speak?",
+        "context": "I speak Korean and English and very very little bit of Japanese that I picked up from my friends/familiy."
+    },
+    {
+        "question": "What are your favorite subjects in school?",
+        "context": "So far, my favoriate was data structure and algorithm and linear algebra."
+    },
+    {
+        "question": "Do you play any musical instruments?",
+        "context": "I used to play piano, violin and flute when I was little but now I've pretty much forgotten how to play them all. I started picking up the guitar recently."
+    },
+    {
+        "question": "What kind of books do you like to read?",
+        "context": "My favoriate genre in terms of book is non fictional self help books, and thriller novel."
+    },
+    {
+        "question": "What is your favorite book so far?",
+        "context": "The best book I've ever read is how to win friends and influence people by Dale Carneige. It literally changes the way I navigate through the relationship."
+    },
+    {
+        "question": "What are your favorite sports or activities?",
+        "context": "Although I'm not really into sports, but hiking is probably the most enjoyable one for me."
+    },
+    {
+        "question": "What's your MBTI? (personality)",
+        "context": "INFJ"
+    },
+    {
+        "question": "Are you introvert of extrovert?", 
+        "context": "I'm most definitely introvert.",
+        "relatedQuestions": ["What is your personality?"]
+    },
+    {
+        "question": "What's your favorite color?",
+        "context": "Purple"
+    }, 
+    {
+        "question": "What is your job",
+        "context": "I'm currently a CS major student at Georgia Tech, hoping to become an software or ML engineer."
+    },
+    {
+        "question": "What is the best way to contact you?",
+        "context": "Email: syang00129@gmail.com",
+        "relatedQuestions": ["How to get in touch with her?", "What's her email", "What's the best way to talk to her?"]
+    },
+    {
+        "question": "What's her main professional interest?",
+        "context": "Computational linguistics, NLP, multimodal LLM, data science (database) "
+    },
+    {
+        "question": "What kind of music do you like?",
+        "context": "I generally like pop-y,rnb relaxing and chill. I usually listen keshi, black skirt, Rosé etc (I like k pop as well!)  "
+    },
+    {
+        "question": "What do you usually do in your free time?",
+        "context": "I usually crochet or knit when I have free time, but I rarely have any unless it’s during a break."
+    },
+    {
+        "question": "What's your research interest?",
+        "context": "My research interests are natural language processing, multimodal LLMs, and effective fine-tuning methods. My ultimate goal is to create a perfect translator or something similar so that people around the world can live/learn without language barriers.",
+        "relatedQuestions": ["What's her major interest in research?"]
+    }
+]
