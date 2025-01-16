@@ -1,0 +1,99 @@
+.container {
+  max-width: 600px;
+  margin: auto;
+  padding: 20px;
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+
+/* User Messages */
+.userMessage {
+  max-width: 70%;
+  word-wrap: break-word;
+  padding: 12px;
+  border-radius: 10px;
+  margin: 8px;
+  text-align: right;
+  background: #d1e7ff;
+  align-self: flex-end;
+}
+
+/* Bot Messages */
+.botMessage {
+  max-width: 70%;
+  word-wrap: break-word;
+  padding: 12px;
+  border-radius: 10px;
+  margin: 8px;
+  text-align: left;
+  background: #f0f0f0;
+  align-self: flex-start; 
+}
+
+/* Input & Button */
+.inputContainer {
+  display: flex;
+  margin-top: 10px;
+}
+
+.input {
+  flex: 1;
+  padding: 10px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+}
+
+.sendButton {
+  margin-left: 5px;
+  padding: 10px 20px;
+  cursor: pointer;
+  background: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+}
+
+.sendButton:hover {
+  background: #1c518b;
+}
+
+/* Chatbox */
+.chatBox {
+  border: 1px solid #ddd;
+  padding: 15px;
+  height: 400px;
+  background-color: #f9f9f9;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  overflow-y: auto;  /* Allow scrolling */
+  position: relative;
+}
+
+.exampleQuestions {
+  position: relative;
+  width: 100%;
+  text-align: center;
+  padding: 10px 0;
+  border-top: 1px solid #ddd;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+/* Example Question Buttons */
+.exampleButton {
+  background-color: #f0f0f0;
+  border: none;
+  padding: 8px 15px;
+  margin: 3px;
+  border-radius: 20px;
+  cursor: pointer;
+  font-size: 15px;
+  transition: background-color 0.2s ease-in-out;
+}
+
+.exampleButton:hover {
+  background-color: #d1e7ff;
+}
+
