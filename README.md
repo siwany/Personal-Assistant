@@ -17,8 +17,8 @@ A chatbot that provides personalized responses about me, deployed on Vercel.
 
 ### 1.Clone the Repository
 ```
-git clone https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME.git
-cd YOUR_REPO_NAME
+git clone https://github.com/siwany/Personal-Assistant.git
+cd frontend
 ```
 
 ### 2.Install Dependencies
@@ -26,7 +26,18 @@ cd YOUR_REPO_NAME
 npm install
 ```
 
+### 3.Run the app locally
+```
+npm start
+```
+
 The app will be available at http://localhost:3000
+
+
+Feel free to **fork** this project, open issues, or submit PRs!
+
+## 📝 License
+This project is open-source and available under the **MIT License.**
 
 
 
