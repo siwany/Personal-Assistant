@@ -32,7 +32,8 @@ const App = () => {
     setLoading(true);
 
     try {
-      const response = await axios.post("https://personal-assistant-6t2e.onrender.com//api/chat", { message });
+       const response = await axios.post("https://personal-assistant-6t2e.onrender.com/api/chat", { message });
+      //const response = await axios.post("http://localhost:3001/api/chat", {message});
 
       // Add chatbot response to chat
       setMessages(prevMessages => [

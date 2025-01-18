@@ -5,6 +5,7 @@ A chatbot that provides personalized responses about me, deployed on Vercel.
 [Click here to check out the deployed chatbot!](https://personal-assistant-delta-orpin.vercel.app/)
 
 ## 📸 Preview
+![preview](/assets/image.png)
 
 ## 🛠 Features
 
@@ -33,6 +34,11 @@ npm start
 
 The app will be available at http://localhost:3000
 
+### Tech Stacks
+* Frontend: React.js
+* Backend: Node.js, Express
+* API: OpenAI API
+* Deployment: Vercel (Frontend), Render (Backend)
 
 Feel free to **fork** this project, open issues, or submit PRs!
 
