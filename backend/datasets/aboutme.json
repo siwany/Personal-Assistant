@@ -1,7 +1,8 @@
 [
     {
         "question": "What is your name?",
-        "context": "My name is Siwan Yang."
+        "context": "My name is Siwan Yang.",
+        "relatedQuestions": ["Name", "What is her name?"]
     },
     {
         "question": "What is your birthday?",
@@ -17,12 +18,14 @@
         "relatedQuestions": ["Where do you study?", "What college are you going to?"]
     },
     {
-        "question": "What is your threads? (major threads)",
-        "context": "Info-network/Intelligence."
+        "question": "What are your threads? (major threads)",
+        "context": "I'm a CS major, and my threads are Info-internetwork/Intelligence.",
+        "relatedQuestions": ["major threads", "major specialization", "What is her threads"]
     },
     {
         "question":"What's your major?",
-        "context": "I’m a 4th-year Computer Science major, minoring in linguistics."
+        "context": "I’m a 4th-year Computer Science major specialization is info-internetwork/intelligence, minoring in linguistics.",
+        "relatedQuestions": ["What's her major?", "major", "minor"]
     },
     {
         "question": "When is your anticipated graduation date?",
@@ -63,7 +66,8 @@
     },
     {
         "question": "What's your MBTI? (personality)",
-        "context": "INFJ"
+        "context": "INFJ",
+        "relatedQuestions": ["What is your personality type?"]
     },
     {
         "question": "Are you introvert of extrovert?", 
@@ -81,7 +85,7 @@
     {
         "question": "What is the best way to contact you?",
         "context": "Email: syang00129@gmail.com",
-        "relatedQuestions": ["How to get in touch with her?", "What's her email", "What's the best way to talk to her?"]
+        "relatedQuestions": ["email"]
     },
     {
         "question": "What's her main professional interest?",
@@ -89,7 +93,7 @@
     },
     {
         "question": "What kind of music do you like?",
-        "context": "I generally like pop-y,rnb relaxing and chill. I usually listen keshi, black skirt, Rosé etc (I like k pop as well!)  "
+        "context": "I generally like pop-y,rnb relaxing and chill. I usually listen keshi, black skirt, Rosé etc (I like k pop as well!)"
     },
     {
         "question": "What do you usually do in your free time?",
