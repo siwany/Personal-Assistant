@@ -7,7 +7,7 @@ A chatbot that provides personalized responses about me, deployed on Vercel.
 ## Preview
 ![preview](/assets/image.png)
 
-### Tech Stacks
+## Tech Stacks
 * Frontend: React.js
 * Backend: Node.js, Express
 * API: OpenAI API
